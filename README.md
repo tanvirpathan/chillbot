@@ -17,12 +17,3 @@ Chillbot is a google home based application that uses tensorflow and machine lea
 5. The google home was used to create a few simple actions that the user could use to determine if the type of drink they were looking for was in the fridge. 
 
 
-## How to make contributions?
-Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
-See [LICENSE](LICENSE).
-
-## Terms
-Your use of this sample is subject to, and by using or downloading the sample files you agree to comply with, the [Google APIs Terms of Service](https://developers.google.com/terms/).
-
